@@ -1,0 +1,3 @@
+post-build=htc/sprint_wwe/m7wls:4.4.2/KOT49H/337390.3:user/release-keys
+post-timestamp=1424666578
+pre-device=m7spr

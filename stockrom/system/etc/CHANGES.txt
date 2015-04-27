@@ -1,0 +1,293 @@
+===================================
+Since Mon Feb 16 03:17:09 UTC 2015
+===================================
+
+   * frameworks/ex
+ad47f23 chips: Only dereference a selected chip if user wasn't still editing.
+
+   * packages/apps/Mms
+19a9173 SearchView: Use the activity context
+
+   * packages/inputmethods/LatinIME
+1b4dd69 tl: Fix blank key in Tagalog keyboard
+
+===================================
+Since Mon Feb  9 03:05:56 UTC 2015
+===================================
+
+   * external/koush/Superuser
+0796666 Automatic translation import
+
+   * external/whispersystems/WhisperPush
+25eca2c Automatic translation import
+
+   * frameworks/base
+3378bb4 Automatic translation import
+b33b943 Keyguard Landscape: Fix Glowpad and SIM Pin Layout for sw360dp devices
+
+   * hardware/qcom/fm
+c22aa72 Automatic translation import
+701886e FM: Add property to force use internal antenna
+
+   * packages/apps/Apollo
+9c2749d Automatic translation import
+
+   * packages/apps/Bluetooth
+9f874f5 Automatic translation import
+
+   * packages/apps/BluetoothExt
+f612cbd Automatic translation import
+
+   * packages/apps/Browser
+58d1c64 Automatic translation import
+
+   * packages/apps/CMAccount
+80487c8 Automatic translation import
+
+   * packages/apps/CMBugReport
+dbd6830 Automatic translation import
+
+   * packages/apps/CMFileManager
+699234c Automatic translation import
+
+   * packages/apps/CMHome
+a5b0e9c Automatic translation import
+
+   * packages/apps/CMUpdater
+c99fa6a Automatic translation import
+
+   * packages/apps/Calculator
+a2adb18 Automatic translation import
+
+   * packages/apps/Calendar
+1171422 Automatic translation import
+
+   * packages/apps/Camera2
+3291465 Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver
+94edf9f Automatic translation import
+
+   * packages/apps/Contacts
+26e3e54 Automatic translation import
+
+   * packages/apps/ContactsCommon
+2105bb5 Automatic translation import
+
+   * packages/apps/DSPManager
+34df8e7 Automatic translation import
+
+   * packages/apps/DeskClock
+e5a497f Automatic translation import
+db87160 DeskClock-Alarm: Fix Layout for 360dp devices. (for example i9300).
+
+   * packages/apps/Dialer
+6fff83f Automatic translation import
+
+   * packages/apps/Email
+68564fa Automatic translation import
+
+   * packages/apps/Gallery2
+ca09b0e Automatic translation import
+
+   * packages/apps/InCallUI
+a32b937 Automatic translation import
+
+   * packages/apps/LockClock
+e5b8426 Automatic translation import
+
+   * packages/apps/Mms
+885247d Automatic translation import
+
+   * packages/apps/Nfc
+1134cb3 Automatic translation import
+
+   * packages/apps/Settings
+b7eab95 Automatic translation import
+
+   * packages/apps/SoundRecorder
+5aad087 Automatic translation import
+373a219 SoundRecorder: Make the availability of WAV recording conditional
+
+   * packages/apps/ThemeChooser
+ef24352 Automatic translation import
+
+   * packages/apps/Torch
+e19557e Automatic translation import
+
+   * packages/apps/Trebuchet
+296afb4 Automatic translation import
+a0bb94b Trebuchet Landscape: Fix Layout for sw360dp devices.
+c3c8462 Bring back ACTION_ASSIST and target Intent to Google Now.
+
+   * packages/apps/VoicePlus
+13ca465 Automatic translation import
+
+   * packages/inputmethods/LatinIME
+782c2cb Automatic translation import
+5b3781c LatinIME: Add support for Kurdish
+
+   * packages/providers/DownloadProvider
+402e1ac Automatic translation import
+
+   * packages/services/Telephony
+fdc105b Automatic translation import
+
+   * packages/wallpapers/PhotoPhase
+169af48 Automatic translation import
+
+===================================
+Since Tue Feb  3 05:29:09 UTC 2015
+===================================
+
+   * build
+348862a Add "-encoding UTF-8" option to javadoc.
+b8df4f8 build: qcom: Set the correct project path for device-specific cameras
+
+   * kernel/htc/msm8960
+b5724de ipv4: try to cache dst_entries which would cause a redirect
+
+   * packages/apps/CMBugReport
+4222377 Revert "lolipopify the cmbugreport icon"
+883104b lolipopify the cmbugreport icon
+
+   * packages/apps/Dialer
+79736d6 Dialer: Add special code aliases
+
+   * packages/apps/Mms
+249b5fe Mms: implement markAsRead & markAsReadAll
+
+   * packages/apps/Settings
+2228aad development: Improve setting for updating recovery
+33ad9db Settings: Profiles: fix crash on devices without NFC
+
+===================================
+Since Sun Feb  1 19:57:07 UTC 2015
+===================================
+
+   * packages/apps/CMUpdater
+507ec69 Add RECOVERY permission
+
+===================================
+Since Sun Jan 25 23:04:30 UTC 2015
+===================================
+
+   * external/koush/Superuser
+5447446 Automatic translation import
+
+   * bootable/recovery-cm
+d039e87 sr: Remove uncrypt, it's moving to system/core
+
+   * external/icu4c
+168ffc7 Rebuilt ICU stub data
+72d12b5 Rebuilt ICU files for Luxembourgish with unused data removed
+
+   * external/whispersystems/WhisperPush
+4e86466 Automatic translation import
+
+   * frameworks/base
+eaddcf2 Automatic translation import
+
+   * hardware/qcom/fm
+1f26a52 Automatic translation import
+
+   * kernel/htc/msm8960
+1e7ab6c ASoC: Add HTC zara support
+5a066e7 power: pm8921-charger: Add HTC zara support
+e8dc97b power: pm8921-charger: Add HTC zara support
+aa8d0e5 input: bma250: Add HTC zara support
+c9161f4 drivers: media: video: Add omnivision5693 sensor
+b2bd2d1 drivers: regulators: Add NCP6924 driver
+b602759 drivers: input: Add BMA250 ONLY G-sensor Driver
+
+   * packages/apps/Apollo
+b0ee983 Automatic translation import
+
+   * packages/apps/CMAccount
+f8b75e0 Automatic translation import
+
+   * packages/apps/CMBugReport
+e465266 Automatic translation import
+
+   * packages/apps/CMFileManager
+63904ec Automatic translation import
+
+   * packages/apps/CMHome
+d470776 Automatic translation import
+
+   * packages/apps/CMUpdater
+5e74499 Automatic translation import
+
+   * packages/apps/Calendar
+3d48447 Automatic translation import
+
+   * packages/apps/Camera2
+a307012 Automatic translation import
+
+   * packages/apps/ContactsCommon
+a1619bd Automatic translation import
+
+   * packages/apps/DSPManager
+e00edb3 Automatic translation import
+
+   * packages/apps/DeskClock
+9fca21b Automatic translation import
+
+   * packages/apps/Dialer
+1efcafd Automatic translation import
+
+   * packages/apps/Email
+3a742dd Automatic translation import
+
+   * packages/apps/Gallery2
+55b5e6e Automatic translation import
+
+   * packages/apps/InCallUI
+e120fdc Automatic translation import
+
+   * packages/apps/LockClock
+d740fae Automatic translation import
+
+   * packages/apps/Mms
+db6f49a Automatic translation import
+66b1737 Revert "Mms:Better Android Wearable support"
+6e8a593 Mms:Better Android Wearable support
+
+   * packages/apps/Settings
+a5d3c1f Automatic translation import
+1819ecc Revert "Settings : Add tap/pay help url"
+
+   * packages/apps/Stk
+1312497 Automatic translation import
+
+   * packages/apps/Torch
+5ce906e Automatic translation import
+
+   * packages/apps/UnifiedEmail
+cf2d20c Automatic translation import
+
+   * packages/providers/DownloadProvider
+59d874c Automatic translation import
+
+   * packages/services/Telephony
+50245f9 Automatic translation import
+
+   * packages/wallpapers/PhotoPhase
+94cac56 Automatic translation import
+
+   * system/core
+877692a create block map for all update packages on /data
+e2dcb4f open misc device in write-only mode
+c2b6990 clear BCB in misc partition before rebooting
+ca3e2cd revert uncrypt back to dynamic linking, fix libs
+3bbb59a change uncrypt to static linking
+ba775f2 only do uncryption on packages in /data
+03c6ec9 recovery: 64 bit build issues
+6ad7740 Fix a crash when going into recovery mode.
+12593b4 program to store unencrypted files in an encrypted filesystem
+
+   * vendor/cm
+a0db5e5 Tap & Pay - Give 'learn more' a URL
+eaaf2cf Update Cellcom Israel
+ff32529 Add M12 to the changelog
+
